@@ -1,4 +1,3 @@
-## Austen Stone
 Hi 👋, I'm Austen —a software developer who loves to solve people's problems.
 
 ### My Job
