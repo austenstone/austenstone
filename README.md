@@ -1,5 +1,5 @@
 
-<img align="right" height="300px" src="/cgol.gif">
+<a target="_blank" href="https://github.com/astone2014/game-of-life"><img align="right" height="300px" src="/cgol.gif"></a>
 Hi 👋, I'm Austen —a software developer who loves to solve people's problems.
 
 ### My Job
