@@ -1,4 +1,4 @@
-
+<img align="right" width="300" height="300" src="https://octodex.github.com/images/manufacturetocat.png">
 Hi 👋, I'm Austen —a software developer who loves to solve people's problems.
 
 ### My Job
