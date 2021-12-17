@@ -2,20 +2,22 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
 
-#### Hey 👋, I'm Austen —a software developer who loves to solve people's problems with automation and code.
+#### Hey, I'm Austen —a software developer who loves to solve people's problems with automation and code.
 
-### My Career 🏡👨‍💻
-
+### My Career 👨‍💻
 I work at [Telit IoT Platforms](https://www.telit.com/) where I create products and services to help customers build full end to end IoT solutions.
 
-I've been working from home as of 2020. It keeps me focused, I love to chat.
-
 I am the creator of the no-code dashboard builder, [📊 deviceWISE View](https://view.devicewise.com/).
+
+#### Where🏡🌴
+I live in sunny south Florida. I've been working from home as of 2020.
 
 ### Contact Me ✉️
 I'm almost always available via text, email, social. [Please don't say just hello!](https://nohello.net/)
 
 [Visit my personal site](https://austen.info)
+
+---
 
 ### Random Resources & Tips 🤪
 
@@ -36,6 +38,8 @@ I'm almost always available via text, email, social. [Please don't say just hell
 ###### Other
 * [Rubber Duck Debugging](https://rubberduckdebugging.com/)
 * [Hacker News](https://news.ycombinator.com/)
+
+---
 
 ### Stats 📊
 
