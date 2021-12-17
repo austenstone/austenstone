@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://octodex.github.com/images/manufacturetocat.png">
+<img align="right" width="30%" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 Hi 👋, I'm Austen —a software developer who loves to solve people's problems.
 
 ### My Job
@@ -8,3 +8,6 @@ I am the creator of the no-code dashboard builder, [📊 deviceWISE View](https:
 
 ### Contact Me
 * [Personal site](https://austen.info)
+
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austenstone&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
