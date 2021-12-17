@@ -14,6 +14,7 @@ I'm almost always available via text, email, social. [Please don't say just hell
 [Visit my personal site](https://austen.info)
 
 ---
+<img align="right" width="33%" src="https://octodex.github.com/images/Professortocat_v2.png">
 
 ### Random Resources & Tips 🤪
 
