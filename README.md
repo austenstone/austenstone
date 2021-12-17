@@ -37,6 +37,14 @@ I'm almost always available via text, email, social. [Please don't say just hell
 * [Hacker News](https://news.ycombinator.com/)
 
 ### Stats 📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austenstone&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austenstone&show_icons=true&theme=github_dark&hide_border=true&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=austenstone&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austenstone&show_icons=true&theme=github_dark&hide_border=true&langs_count=8&layout=compact" />
+</a>
+
+### Music 🎵
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&redirect=true)
