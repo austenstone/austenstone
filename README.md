@@ -23,7 +23,7 @@ I'm almost always available via text, email, social. [Please don't say just hell
 
 ###### Learn
 * [LearnXinYminutes](http://learnxinyminutes.com/)
-* [YouTube Fireship IO](https://www.youtube.com/c/Fireship)
+* [Fireship IO YouTube](https://www.youtube.com/c/Fireship)
 
 ###### Practice
 * [Project Euler](https://projecteuler.net/archives)
@@ -53,8 +53,3 @@ I'm almost always available via text, email, social. [Please don't say just hell
 ### Music 🎵
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&redirect=true)
-
-### Specs 🖥️
-
-<img src="https://www.passmark.com/baselines/V10/images/147458042732.png" alt="PassMark Rating" border="0">
-
