@@ -1,13 +1,14 @@
 <img align="right" width="33%" src="https://octodex.github.com/images/Fintechtocat.png">
 
-#### Hey, I'm Austen —a software developer who loves solving people's problems with automation and code.
+<h3>Hi, I'm <a href="https://github.com/austenstone">Austen Stone</a><br>a Software Engineer and Designer</h3>
+<h6>I love working with people to solve problems using automation and code.</h6>
 
 ### My Career 👨‍💻
 I work at [Telit IoT Platforms](https://www.telit.com/) where I create products and services to help customers build full end to end IoT solutions.
 
 I am the creator of the no-code dashboard builder, [📊 deviceWISE View](https://view.devicewise.com/).
 
-### Contact Me ✉️
+### Contact Me 🤙
 I'm almost always available via text, email, social. [Please don't say just hello](https://nohello.net/)!
 
 [Visit my personal site](https://austen.info)
