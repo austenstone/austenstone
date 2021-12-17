@@ -37,7 +37,9 @@ I'm almost always available via text, email, social. [Please don't say just hell
 
 ###### Other
 * [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+* [Oh #$@!% Git!](https://ohshitgit.com/)
 * [Hacker News](https://news.ycombinator.com/)
+* [Hacker Noon](https://hackernoon.com/)
 
 ---
 
