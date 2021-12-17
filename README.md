@@ -39,5 +39,4 @@ I'm almost always available via text, email, social. [Please don't say just hell
 ### Stats 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austenstone&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austenstone&show_icons=true&theme=github_dark&hide_border=true&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
