@@ -26,7 +26,7 @@ I'm almost always available via text, email, social. [Please don't say just hell
 * [Project Euler](https://projecteuler.net/archives)
 * [Code Signal](https://app.codesignal.com/login)
 * [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
-
+* 
 ###### Design
 * [Undraw (Open-source SVG illustrations)](https://undraw.co/illustrations)
 * [Material Design](https://material.io/)
@@ -57,6 +57,10 @@ I'm almost always available via text, email, social. [Please don't say just hell
 ### Music 🎵
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1224818142?si=47ea2387152f491e)
+
+<a href="https://austen.info/">
+  <img align="right" width="50px" src="https://media0.giphy.com/media/SyDYrQYuQHBlK/giphy.gif?cid=ecf05e47wdxdsvci7499v6ljcw1qi42di9g5lzf75x3o8l99&rid=giphy.gif&ct=s">
+</a>
 
 ### Thanks for checking out my profile! 👋
 
