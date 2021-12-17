@@ -31,7 +31,9 @@ I'm almost always available via text, email, social. [Please don't say just hell
 * [Undraw (Open-source SVG illustrations)](https://undraw.co/illustrations)
 * [Material Design](https://material.io/)
 
-<img align="right" width="100px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
+<a href="https://rubberduckdebugging.com/">
+  <img align="right" width="100px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
+</a>
 
 ###### Other
 * [Rubber Duck Debugging](https://rubberduckdebugging.com/)
