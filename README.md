@@ -1,5 +1,7 @@
 <img align="right" width="33%" src="https://octodex.github.com/images/Fintechtocat.png">
 
+![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
+
 #### Hey 👋, I'm Austen —a software developer who loves to solve people's problems with automation and code.
 
 ### My Career 🏡👨‍💻
@@ -37,5 +39,3 @@ I'm almost always available via text, email, social. [Please don't say just hell
 ### Stats 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austenstone&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austenstone&show_icons=true&theme=github_dark&hide_border=true&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
