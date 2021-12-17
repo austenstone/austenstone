@@ -1,4 +1,6 @@
-<img align="right" width="33%" src="https://octodex.github.com/images/Fintechtocat.png">
+<a href="https://github.com/austenstone">
+  <img align="right" width="33%" src="https://octodex.github.com/images/Fintechtocat.png">
+</a>
 
 <h3>Hi, I'm <a href="https://github.com/austenstone">Austen Stone</a><br>a Software Engineer and Designer</h3>
 <h6>I love working with people to solve problems using automation and code.</h6>
@@ -14,7 +16,10 @@ I'm almost always available via text, email, social. [Please don't say just hell
 [Visit my personal site](https://austen.info)
 
 ---
-<img align="right" width="33%" src="https://octodex.github.com/images/Professortocat_v2.png">
+
+<a href="https://github.com/austenstone">
+  <img align="right" width="33%" src="https://octodex.github.com/images/Professortocat_v2.png">
+</a>
 
 ### Random Resources & Tips 🤪
 
