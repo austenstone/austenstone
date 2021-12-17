@@ -32,7 +32,7 @@ I'm almost always available via text, email, social. [Please don't say just hell
 * [Material Design](https://material.io/)
 
 <a href="https://rubberduckdebugging.com/">
-  <img align="right" width="100px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
+  <img align="right" width="125px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 </a>
 
 ###### Other
@@ -59,7 +59,7 @@ I'm almost always available via text, email, social. [Please don't say just hell
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1224818142?si=47ea2387152f491e)
 
 <a href="https://austen.info/">
-  <img align="right" width="50px" src="https://media0.giphy.com/media/SyDYrQYuQHBlK/giphy.gif?cid=ecf05e47wdxdsvci7499v6ljcw1qi42di9g5lzf75x3o8l99&rid=giphy.gif&ct=s">
+  <img align="right" width="100px" src="https://media0.giphy.com/media/SyDYrQYuQHBlK/giphy.gif?cid=ecf05e47wdxdsvci7499v6ljcw1qi42di9g5lzf75x3o8l99&rid=giphy.gif&ct=s">
 </a>
 
 ### Thanks for checking out my profile! 👋
