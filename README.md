@@ -1,17 +1,14 @@
 <img align="right" width="33%" src="https://octodex.github.com/images/Fintechtocat.png">
 
-#### Hey, I'm Austen —a software developer who loves to solve people's problems with automation and code.
+#### Hey, I'm Austen —a software developer who loves solving people's problems with automation and code.
 
 ### My Career 👨‍💻
 I work at [Telit IoT Platforms](https://www.telit.com/) where I create products and services to help customers build full end to end IoT solutions.
 
 I am the creator of the no-code dashboard builder, [📊 deviceWISE View](https://view.devicewise.com/).
 
-#### Where🏡🌴
-I live in sunny south Florida. I've been working from home as of 2020.
-
 ### Contact Me ✉️
-I'm almost always available via text, email, social. [Please don't say just hello!](https://nohello.net/)
+I'm almost always available via text, email, social. [Please don't say just hello](https://nohello.net/)!
 
 [Visit my personal site](https://austen.info)
 
@@ -30,6 +27,7 @@ I'm almost always available via text, email, social. [Please don't say just hell
 
 ###### Design
 * [Undraw (Open-source SVG illustrations)](https://undraw.co/illustrations)
+* [Material Design](https://material.io/)
 
 <img align="right" width="100px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 
@@ -55,3 +53,4 @@ I'm almost always available via text, email, social. [Please don't say just hell
 ### Thanks for checking out my profile! 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
+[![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
