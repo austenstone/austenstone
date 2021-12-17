@@ -1,7 +1,5 @@
 <img align="right" width="33%" src="https://octodex.github.com/images/Fintechtocat.png">
 
-![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
-
 #### Hey, I'm Austen —a software developer who loves to solve people's problems with automation and code.
 
 ### My Career 👨‍💻
@@ -53,3 +51,5 @@ I'm almost always available via text, email, social. [Please don't say just hell
 ### Music 🎵
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&redirect=true)
+
+![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
