@@ -14,7 +14,7 @@ I am the creator of the no-code dashboard builder, [📊 deviceWISE View](https:
 
 ### Contact Me ✉️
 I'm almost always available via text, email, social. [Please don't say just hello!](https://nohello.net/)
-* [Personal site](https://austen.info)
+[Visit my personal site](https://austen.info)
 
 ### Random Resources & Tips 🤪
 
