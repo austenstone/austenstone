@@ -50,6 +50,9 @@ I'm almost always available via text, email, social. [Please don't say just hell
 
 ### Music 🎵
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1224818142?si=47ea2387152f491e)
+
+---
+Thanks for checking out my profile!
 
 ![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
