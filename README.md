@@ -31,7 +31,7 @@ I'm almost always available via text, email, social. [Please don't say just hell
 * [Project Euler](https://projecteuler.net/archives)
 * [Code Signal](https://app.codesignal.com/login)
 * [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
-* 
+
 ###### Design
 * [Undraw (Open-source SVG illustrations)](https://undraw.co/illustrations)
 * [Material Design](https://material.io/)
