@@ -48,6 +48,8 @@ I'm almost always available via text, email, social. [Please don't say just hell
   <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austenstone&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true&langs_count=8&layout=compact" />
 </a>
 
+<img align="right" width="33%" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+
 ### Music 🎵
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1224818142?si=47ea2387152f491e)
