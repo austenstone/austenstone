@@ -33,8 +33,9 @@ I'm almost always available via text, email, social. [Please don't say just hell
 * [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
 
 ###### Design
-* [Undraw (Open-source SVG illustrations)](https://undraw.co/illustrations)
 * [Material Design](https://material.io/)
+* [Laws of UX](https://lawsofux.com/)
+* [Undraw (Open-source SVG illustrations)](https://undraw.co/illustrations)
 
 <a href="https://rubberduckdebugging.com/">
   <img align="right" width="125px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
