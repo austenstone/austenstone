@@ -17,11 +17,11 @@ I'm almost always available via text, email, social. [Please don't say just hell
 
 ---
 
+### Random Resources & Tips 🤪
+
 <a href="https://github.com/austenstone">
   <img align="right" width="33%" src="https://octodex.github.com/images/Professortocat_v2.png">
 </a>
-
-### Random Resources & Tips 🤪
 
 ###### Learn
 * [LearnXinYminutes](http://learnxinyminutes.com/)
