@@ -6,9 +6,9 @@
 <h6>I love working with people to solve problems using automation and code.</h6>
 
 ### Career 👨‍💻
-I work at [Telit IoT Platforms](https://www.telit.com/) where I create products and services to help customers build full end to end IoT solutions.
+I'm a solutions engineer at [Telit IoT Platforms](https://www.telit.com/) where I create products and services to help customers build full end to end IoT solutions.
 
-I am the creator of the no-code dashboard builder, [📊 deviceWISE View](https://view.devicewise.com/login?user=demo&pass=demo).
+I'm also the creator of the no-code dashboard builder, [📊 deviceWISE View](https://view.devicewise.com/login?user=demo&pass=demo).
 
 ### Contact 🤙
 I'm almost always available via text, email, social. [Please don't say just hello](https://nohello.net/)!
