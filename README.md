@@ -11,7 +11,7 @@ I'm a solutions engineer at [Telit IoT Platforms](https://www.telit.com/) where 
 I'm also the creator of the no-code dashboard builder, [📊 deviceWISE View](https://view.devicewise.com/login?user=demo&pass=demo).
 
 ### Contact 🤙
-I'm almost always available via text, email, social. [Please don't say just hello](https://nohello.net/)!
+*Almost* always available via text, email, social. [Please don't say just hello](https://nohello.net/)!
 
 [Visit my personal site](https://austen.info)
 
