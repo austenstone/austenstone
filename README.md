@@ -8,8 +8,6 @@
 ### Contact 🤙
 *Almost* always available via text, email, social. [Please don't say just hello](https://nohello.net/)!
 
-[Visit my personal site](https://austen.info)
-
 ---
 
 ### Random Resources & Tips 🤪
