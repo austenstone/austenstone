@@ -5,6 +5,9 @@
 <h3>Hi, I'm <a href="https://github.com/austenstone">Austen Stone</a><br>an Engineer and Designer</h3>
 <h6>I love working with people to solve problems using automation and code.</h6>
 
+<br>
+<br>
+
 ### Contact 🤙
 *Almost* always available via text, email, social. [Please don't say just hello](https://nohello.net/)!
 
