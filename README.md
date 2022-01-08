@@ -15,7 +15,7 @@
 
 ### Random Resources & Tips 🤪
 
-<a href="https://github.com/austenstone">
+<a href="https://lab.github.com/">
   <img align="right" width="33%" src="https://octodex.github.com/images/Professortocat_v2.png">
 </a>
 
