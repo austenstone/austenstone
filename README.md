@@ -9,7 +9,7 @@
 <br>
 
 ### Contact 🤙
-*Almost* always available via text, email, social. [Please don't say just hello](https://nohello.net/)!
+*Almost* always available via text, email, slack!
 
 ---
 
