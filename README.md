@@ -63,7 +63,8 @@
 
 ### Music 🎵
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1224818142?si=47ea2387152f491e)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1224818142?si=47ea2387152f491e) -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&redirect=true)
 
 <a href="https://austen.info/">
   <img align="right" width="100px" src="https://media0.giphy.com/media/SyDYrQYuQHBlK/giphy.gif?cid=ecf05e47wdxdsvci7499v6ljcw1qi42di9g5lzf75x3o8l99&rid=giphy.gif&ct=s">
