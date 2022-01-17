@@ -1,5 +1,5 @@
 <a href="https://github.com/austenstone">
-  <img align="right" width="33%" src="https://octodex.github.com/images/Fintechtocat.png">
+  <img align="right" width="29%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">
 </a>
 
 <h3>Hi, I'm <a href="https://github.com/austenstone">Austen Stone</a><br>an Engineer and Designer</h3>
