@@ -22,16 +22,19 @@
 ###### Learn
 * [LearnXinYminutes](http://learnxinyminutes.com/)
 * [Fireship IO YouTube](https://www.youtube.com/c/Fireship)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
 
 ###### Practice
-* [Project Euler](https://projecteuler.net/archives)
-* [Code Signal](https://app.codesignal.com/login)
 * [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
+* [Project Euler](https://projecteuler.net/archives)
+* [Advent of Code](https://adventofcode.com/2021/about)
+* [Code Signal](https://app.codesignal.com/login)
 
 ###### Design
 * [Material Design](https://material.io/)
 * [Laws of UX](https://lawsofux.com/)
 * [Undraw (Open-source SVG illustrations)](https://undraw.co/illustrations)
+* [Coolors](https://coolors.co/palettes/trending)
 
 <a href="https://rubberduckdebugging.com/">
   <img align="right" width="125px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
@@ -39,9 +42,9 @@
 
 ###### Other
 * [Rubber Duck Debugging](https://rubberduckdebugging.com/)
-* [Oh #$@!% Git!](https://ohshitgit.com/)
+* [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 * [Hacker News](https://news.ycombinator.com/)
-* [Hacker Noon](https://hackernoon.com/)
+* [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
 
 ---
 
