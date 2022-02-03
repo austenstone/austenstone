@@ -58,7 +58,7 @@
 </a> -->
 
 <a href="https://metrics.lecoq.io/about/austenstone">
-  <img align="center" width="100%" src="https://metrics.lecoq.io/austenstone?template=classic&gists=1&stackoverflow=1&lines=1&stackoverflow.user=5092005&stackoverflow.sections=%20&stackoverflow.limit=0&stackoverflow.lines=0&stackoverflow.lines.snippet=0&config.timezone=America%2FNew_York&config.display=large" />
+  <img align="center" width="auto" src="https://metrics.lecoq.io/austenstone?template=classic&gists=1&stackoverflow=1&lines=1&stackoverflow.user=5092005&stackoverflow.sections=%20&stackoverflow.limit=0&stackoverflow.lines=0&stackoverflow.lines.snippet=0&config.timezone=America%2FNew_York&config.display=large" />
 </a>
 
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
