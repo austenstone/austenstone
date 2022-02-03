@@ -61,6 +61,8 @@
   <img align="right" width="33%" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
 
+![Metrics](https://metrics.lecoq.io/austenstone?template=classic&gists=1&stackoverflow=1&lines=1&stackoverflow.user=5092005&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=America%2FNew_York)
+
 ### Music 🎵
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1224818142?si=47ea2387152f491e) -->
@@ -75,5 +77,3 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
-
-![Metrics](/metrics.classic.svg)

@@ -1,32 +1,35 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
-
 on:
-  schedule:
-    - cron: "0 * * * *"
-  push:
-    branches:
-      - "main"
+  # Schedule updates (each hour)
+  schedule: [{ cron: "0 * * * *" }]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-
+  push: { branches: ["master", "main"] }
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-
     steps:
       - uses: lowlighter/metrics@latest
-        name: Metrics
         with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org  (for organization related metrics)
+          #  - read:user (for user related data)
+          #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.classic.svg
-          base: header, repositories
-          plugin_lines: yes
 
-      - uses: lowlighter/metrics@latest
-        name: Comment reactions
-        with:
-          filename: metrics.plugin.reactions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_reactions: yes
-          plugin_reactions_limit: 100
-          plugin_reactions_details: percentage
+          # Options
+          user: austenstone
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/New_York
+          plugin_gists: yes
+          plugin_lines: yes
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 0
+          plugin_stackoverflow_lines: 0
+          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_user: 5092005
