@@ -25,11 +25,12 @@ jobs:
           user: austenstone
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: America/New_York
           plugin_gists: yes
           plugin_lines: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 0
           plugin_stackoverflow_lines: 0
-          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_user: 5092005
