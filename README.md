@@ -17,6 +17,7 @@
 #### GitHub
 * [Actions Published by @austenstone](https://github.com/marketplace?query=publisher%3Aaustenstone)
 * [Actions Typescript Template](https://github.com/austenstone/action-typescript)
+* [Actions JavaScript Template](https://github.com/austenstone/action-javascript)
 * [Codespace for Typescript Angular](https://github.com/austenstone/angular-codespace)
 * [Submodules Migration Utility](https://github.com/austenstone/migrate-submodules)
 * [GitHub GraphQL API Usage/Examples](https://github.com/austenstone/gh-api-graphql)
