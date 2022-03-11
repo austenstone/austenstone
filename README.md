@@ -19,10 +19,10 @@
 * [Actions Typescript Template](https://github.com/austenstone/action-typescript)
 * [Codespace for Typescript Angular](https://github.com/austenstone/angular-codespace)
 * [Submodules Migration Utility](https://github.com/austenstone/migrate-submodules)
-* [Codespaces dotfiles](https://github.com/austenstone/dotfiles)
 * [GitHub GraphQL API Usage/Examples](https://github.com/austenstone/gh-api-graphql)
 * [Syncing Repositories Using Actions](https://github.com/austenstone/sample1)
 * [SAST Benchmark Utility](https://github.com/austenstone/sast-benchmark)
+* [Codespaces dotfiles](https://github.com/austenstone/dotfiles)
 
 ### Random Resources & Tips 🤪
 
