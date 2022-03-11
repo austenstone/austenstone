@@ -17,7 +17,6 @@
 #### GitHub
 * [Actions Published by @austenstone](https://github.com/marketplace?query=publisher%3Aaustenstone)
 * [Actions Typescript Template](https://github.com/austenstone/action-typescript)
-* [Actions Adding Dynamic Data to Pinned Gists](https://github.com/austenstone/crypto-box)
 * [Codespace for Typescript Angular](https://github.com/austenstone/angular-codespace)
 * [Submodules Migration Utility](https://github.com/austenstone/migrate-submodules)
 * [Codespaces dotfiles](https://github.com/austenstone/dotfiles)
