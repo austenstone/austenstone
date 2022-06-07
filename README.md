@@ -28,7 +28,7 @@
 ### Random Resources & Tips 🤪
 
 <a href="https://lab.github.com/">
-  <img align="right" width="33%" src="https://octodex.github.com/images/Professortocat_v2.png">
+  <img align="right" width="200" src="https://octodex.github.com/images/Professortocat_v2.png">
 </a>
 
 ###### Learn
@@ -49,7 +49,7 @@
 * [Coolors](https://coolors.co/palettes/trending)
 
 <a href="https://rubberduckdebugging.com/">
-  <img align="right" width="125px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
+  <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 </a>
 
 ###### Other
@@ -74,13 +74,13 @@
 </a>
 
 <a href="https://austen.info/">
-  <img align="right" width="100px" src="https://media0.giphy.com/media/SyDYrQYuQHBlK/giphy.gif?cid=ecf05e47wdxdsvci7499v6ljcw1qi42di9g5lzf75x3o8l99&rid=giphy.gif&ct=s">
+  <img align="right" width="200" src="https://media0.giphy.com/media/SyDYrQYuQHBlK/giphy.gif?cid=ecf05e47wdxdsvci7499v6ljcw1qi42di9g5lzf75x3o8l99&rid=giphy.gif&ct=s">
 </a>
 
 ### Music 🎵
 
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
-  <img align="right" width="33%" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+  <img align="right" width="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1224818142?si=47ea2387152f491e) -->
