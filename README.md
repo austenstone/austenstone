@@ -9,12 +9,12 @@
 <br>
 
 ### Contact 🤙
-*Almost* always available via text, email, slack!
+*Almost* always available via text, [email](mailto:austenstone@github.com), [slack](https://github.slack.com/team/U02TGLRPJR0)!
 
 ---
 
 ### My Work
-#### GitHub
+###### GitHub
 * [Actions Published by @austenstone](https://github.com/marketplace?query=publisher%3Aaustenstone)
 * [Actions Typescript Template](https://github.com/austenstone/action-typescript)
 * [Actions JavaScript Template](https://github.com/austenstone/action-javascript)
@@ -79,6 +79,7 @@
 
 ### Music 🎵
 
+This is the song I'm currently listening to...
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
   <img align="right" width="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
