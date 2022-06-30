@@ -95,6 +95,14 @@
 
 ### Fun 🎈
 
+<a href="https://www.strava.com/athletes/4518741">
+  <img width="200" src="https://user-images.githubusercontent.com/22425467/176723510-a9406fdb-89df-4fa4-af6f-5ce07d437adf.png">
+</a>
+
+<a href="https://www.fau.edu/">
+  <img align="right" width="200" src="https://user-images.githubusercontent.com/22425467/176723532-95aa9704-cbf1-4b54-9f03-271b7b4fb238.png">
+</a>
+
 <a href="https://raider.io/characters/us/aegwynn/Droodlez">
   <img align="right" width="200" src="https://user-images.githubusercontent.com/22425467/176720095-5591ea3d-349b-45a0-8d9a-b5e0822e5693.png">
 </a>
