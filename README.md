@@ -73,9 +73,27 @@
   <img align="center" width="auto" src="https://metrics.lecoq.io/austenstone?template=classic&gists=1&stackoverflow=1&lines=1&stackoverflow.user=5092005&stackoverflow.sections=%20&stackoverflow.limit=0&stackoverflow.lines=0&stackoverflow.lines.snippet=0&config.timezone=America%2FNew_York&config.display=large" />
 </a>
 
-<a href="https://austen.info/">
-  <img align="right" width="200" src="https://media0.giphy.com/media/SyDYrQYuQHBlK/giphy.gif?cid=ecf05e47wdxdsvci7499v6ljcw1qi42di9g5lzf75x3o8l99&rid=giphy.gif&ct=s">
+### Technology
+<a href="https://deno.land/">
+  <img width="75" src="https://user-images.githubusercontent.com/22425467/176673339-356fb845-5eba-42c1-af0f-3c66953c3f65.gif">
 </a>
+<a href="https://www.typescriptlang.org/">
+  <img width="75" src="https://user-images.githubusercontent.com/22425467/176674407-481a583a-bbb4-4e2e-ab19-c6d929d79549.png">
+</a>
+<a href="https://angular.io/">
+  <img width="75" src="https://angular.io/assets/images/logos/angular/angular.svg">
+</a>
+<a href="https://www.docker.com/">
+  <img width="75" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
+</a>
+<a href="">
+  <img width="75" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+</a>
+<a href="https://www.rust-lang.org/">
+  <img width="75" src="https://rustacean.net/assets/cuddlyferris.svg">
+</a>
+
+
 
 ### Music 🎵
 
