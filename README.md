@@ -107,7 +107,7 @@
   <img align="right" width="200" src="https://user-images.githubusercontent.com/22425467/176720095-5591ea3d-349b-45a0-8d9a-b5e0822e5693.png">
 </a>
 
-<a href="https://www.steamidfinder.com/lookup/76561198046923976/"><img src="https://www.steamidfinder.com/signature/76561198046923976.png" alt=" Steam Signature"/></a>
+<a href="https://steamcommunity.com/id/bottlez/"><img src="https://www.steamidfinder.com/signature/76561198046923976.png" alt=" Steam Signature"/></a>
 
 ### Music 🎵
 
