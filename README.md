@@ -73,7 +73,7 @@
   <img align="center" width="auto" src="https://metrics.lecoq.io/austenstone?template=classic&gists=1&stackoverflow=1&lines=1&stackoverflow.user=5092005&stackoverflow.sections=%20&stackoverflow.limit=0&stackoverflow.lines=0&stackoverflow.lines.snippet=0&config.timezone=America%2FNew_York&config.display=large" />
 </a>
 
-### Technology
+### Technologies 👨‍💻
 <a href="https://deno.land/">
   <img width="75" src="https://user-images.githubusercontent.com/22425467/176673339-356fb845-5eba-42c1-af0f-3c66953c3f65.gif">
 </a>
