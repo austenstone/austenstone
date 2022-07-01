@@ -1,5 +1,5 @@
 <a href="https://github.com/austenstone">
-  <img align="right" width="31%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">
+  <img align="right" width="275" src="https://user-images.githubusercontent.com/22425467/176839017-b36e4fbb-83a1-4d0d-aef5-fbab34310cce.gif">
 </a>
 
 <h3>Hi, I'm <a href="https://github.com/austenstone">Austen Stone</a><br>an Engineer and Designer</h3>
@@ -12,6 +12,10 @@
 *Almost* always available via text, [email](mailto:austenstone@github.com), [slack](https://github.slack.com/team/U02TGLRPJR0)!
 
 ---
+
+<a href="https://github.com/austenstone">
+  <img align="right" width="31%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">
+</a>
 
 ### My Work
 ###### GitHub
@@ -109,17 +113,22 @@
 
 <a href="https://steamcommunity.com/id/bottlez/"><img src="https://www.steamidfinder.com/signature/76561198046923976.png" alt=" Steam Signature"/></a>
 
-### Music 🎵
-
-This is the song I'm currently listening to...
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
   <img align="right" width="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
+
+### Music 🎵
+
+This is the song I'm currently listening to...
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1224818142?si=47ea2387152f491e) -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1224818142&redirect=true)
 
 ### Thanks for checking out my profile! 👋
+
+<a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
+  <img width="50" src="https://user-images.githubusercontent.com/22425467/176836837-0e68ab08-472f-4aa5-ac53-736e4f7ae7f1.gif">
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
