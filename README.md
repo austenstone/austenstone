@@ -70,6 +70,7 @@
   </picture>
 </a>
 
+---
 
 ### Stats 📊
 
@@ -83,6 +84,8 @@
 <a href="https://metrics.lecoq.io/about/austenstone">
   <img align="center" width="auto" src="https://metrics.lecoq.io/austenstone?template=classic&gists=1&stackoverflow=1&lines=1&stackoverflow.user=5092005&stackoverflow.sections=%20&stackoverflow.limit=0&stackoverflow.lines=0&stackoverflow.lines.snippet=0&config.timezone=America%2FNew_York&config.display=large" />
 </a>
+
+---
 
 ### Technologies 👨‍💻
 <a href="https://deno.land/">
