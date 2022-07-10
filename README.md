@@ -1,6 +1,4 @@
-<a href="https://github.com/austenstone">
-  <img align="right" width="250" src="https://user-images.githubusercontent.com/22425467/176839017-b36e4fbb-83a1-4d0d-aef5-fbab34310cce.gif">
-</a>
+<img align="right" width="250" src="https://user-images.githubusercontent.com/22425467/176839017-b36e4fbb-83a1-4d0d-aef5-fbab34310cce.gif">
 
 <h3>Hi, I'm <a href="https://github.com/austenstone">Austen Stone</a><br>an Engineer and Designer</h3>
 <h6>I love working with people to solve problems using automation and code.</h6>
