@@ -1,4 +1,6 @@
-<img align="right" width="250" src="https://user-images.githubusercontent.com/22425467/176839017-b36e4fbb-83a1-4d0d-aef5-fbab34310cce.gif">
+<a href="#">
+  <img align="right" width="250" src="https://user-images.githubusercontent.com/22425467/176839017-b36e4fbb-83a1-4d0d-aef5-fbab34310cce.gif">
+</a>
 
 <h3>Hi, I'm <a href="https://github.com/austenstone">Austen Stone</a><br>an Engineer and Designer</h3>
 <h6>I love working with people to solve problems using automation and code.</h6>
@@ -11,7 +13,7 @@
 
 ---
 
-<a href="https://github.com/austenstone">
+<a href="#">
   <img align="right" width="31%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">
 </a>
 
@@ -72,10 +74,10 @@
 
 ### Stats 📊
 
-<!-- <a href="https://github.com/austenstone">
+<!-- <a href="#">
   <img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=austenstone&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-<a href="https://github.com/austenstone">
+<a href="#">
   <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austenstone&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true&langs_count=8&layout=compact" />
 </a> -->
 
