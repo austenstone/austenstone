@@ -62,7 +62,14 @@
 * [Hacker News](https://news.ycombinator.com/)
 * [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
 
----
+<a href="https://stackoverflow.com/users/5092005/austen-stone">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png?theme=dark">
+    <source media="(prefers-color-scheme: light)" media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png">
+    <img src="https://stackoverflow.com/users/flair/5092005.png?theme=dark" width="208" height="58" alt="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </picture>
+</a>
+
 
 ### Stats 📊
 
