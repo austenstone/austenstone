@@ -143,3 +143,5 @@ This is the song I'm currently listening to...
 ![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
+
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=austenstone" target="_blank">Follow on LinkedIn</a>
