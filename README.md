@@ -11,6 +11,8 @@
 ### Contact 🤙
 *Almost* always available via text, [email](mailto:austenstone@github.com), [slack](https://github.slack.com/team/U02TGLRPJR0)!
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/22425467/185956299-f7256b07-888e-4909-9581-c0da4e25bee1.gif#gh-light-mode-only)
+
 ---
 
 <a href="#">
