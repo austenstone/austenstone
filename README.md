@@ -11,7 +11,7 @@
 ### Contact 🤙
 *Almost* always available via text, [email](mailto:austenstone@github.com), [slack](https://github.slack.com/team/U02TGLRPJR0)!
 
-[![Style](https://user-images.githubusercontent.com/22425467/185956299-f7256b07-888e-4909-9581-c0da4e25bee1.gif#gh-light-mode-only)](https://github.com/settings/appearance)
+[![Style](https://user-images.githubusercontent.com/22425467/185956299-f7256b07-888e-4909-9581-c0da4e25bee1.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 ---
 
 <a href="#">
@@ -142,7 +142,7 @@ This is the song I'm currently listening to...
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
-[![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance)
-[![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance)
+[![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
+[![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=austenstone" target="_blank">Follow on LinkedIn</a>
