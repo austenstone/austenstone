@@ -11,7 +11,7 @@
 ### Contact 🤙
 *Almost* always available via text, [email](mailto:austenstone@github.com), [slack](https://github.slack.com/team/U02TGLRPJR0)!
 
-[![Style](https://user-images.githubusercontent.com/22425467/185956299-f7256b07-888e-4909-9581-c0da4e25bee1.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
+[![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 ---
 
 <a href="#">
