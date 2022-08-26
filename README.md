@@ -23,12 +23,23 @@
 * [Actions Published by @austenstone](https://github.com/marketplace?query=publisher%3Aaustenstone)
 * [Actions Typescript Template](https://github.com/austenstone/action-typescript)
 * [Actions JavaScript Template](https://github.com/austenstone/action-javascript)
+* [Actions Docker](https://github.com/austenstone/action-docker)
+* [Actions C](https://github.com/austenstone/action-c)
+* [Actions Playground](https://github.com/austenstone/actions-playground/tree/main/.github/workflows)
 * [Codespace for Typescript Angular](https://github.com/austenstone/angular-codespace)
 * [Submodules Migration Utility](https://github.com/austenstone/migrate-submodules)
 * [GitHub GraphQL API Usage/Examples](https://github.com/austenstone/gh-api-graphql)
 * [Syncing Repositories Using Actions](https://github.com/austenstone/sample1)
 * [SAST Benchmark Utility](https://github.com/austenstone/sast-benchmark)
-* [Codespaces dotfiles](https://github.com/austenstone/dotfiles)
+* [dotfiles](https://github.com/austenstone/dotfiles)
+* [.github repo](https://github.com/austenstone/.github)
+* [GitHub OAuth using Fresh](https://github.com/austenstone/fresh-github-oauth)
+* [CoPilot Demo](https://github.com/austenstone/copilot-demo)
+* [Actions rsync demo](https://github.com/austenstone/rsync)
+* [Pinned-gist Crypto](https://github.com/austenstone/crypto-box)
+* [Sync multiple git repos](https://github.com/austenstone/sample1)
+<!-- * [GitHub Resources](https://github.com/austenstone/github-resources) -->
+<!-- * [Actions Best Practices](https://github.com/austenstone/github-actions-best-practices) -->
 
 ### Random Resources & Tips 🤪
 
