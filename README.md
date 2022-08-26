@@ -1,18 +1,8 @@
-<a href="#">
-  <img align="right" width="250" src="https://user-images.githubusercontent.com/22425467/176839017-b36e4fbb-83a1-4d0d-aef5-fbab34310cce.gif">
-</a>
-
-<h3>Hi, I'm <a href="https://github.com/austenstone">Austen Stone</a><br>an Engineer and Designer</h3>
-<h6>I love working with people to solve problems using automation and code.</h6>
-
-<br>
-<br>
-
-### Contact 🤙
-*Almost* always available via text, [email](mailto:austenstone@github.com), [slack](https://github.slack.com/team/U02TGLRPJR0)!
-
 [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
----
+
+<!-- <a href="#">
+  <img align="right" width="250" src="https://user-images.githubusercontent.com/22425467/176839017-b36e4fbb-83a1-4d0d-aef5-fbab34310cce.gif">
+</a> -->
 
 <a href="#">
   <img align="right" width="31%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">
@@ -74,14 +64,6 @@
 * [Hacker News](https://news.ycombinator.com/)
 * [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
 
-<a href="https://stackoverflow.com/users/5092005/austen-stone">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png?theme=dark">
-    <source media="(prefers-color-scheme: light)" media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png">
-    <img src="https://stackoverflow.com/users/flair/5092005.png?theme=dark" width="208" height="58" alt="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-  </picture>
-</a>
-
 ---
 
 ### Stats 📊
@@ -117,6 +99,14 @@
 </a>
 <a href="https://www.rust-lang.org/">
   <img width="75" src="https://rustacean.net/assets/cuddlyferris.svg">
+</a>
+
+<a href="https://stackoverflow.com/users/5092005/austen-stone">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png?theme=dark">
+    <source media="(prefers-color-scheme: light)" media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png">
+    <img align="right" src="https://stackoverflow.com/users/flair/5092005.png?theme=dark" width="208" height="58" alt="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </picture>
 </a>
 
 ### Fun 🎈
