@@ -1,14 +1,9 @@
 [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
-
-<!-- <a href="#">
-  <img align="right" width="250" src="https://user-images.githubusercontent.com/22425467/176839017-b36e4fbb-83a1-4d0d-aef5-fbab34310cce.gif">
-</a> -->
-
+### My Work
 <a href="#">
   <img align="right" width="31%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">
 </a>
 
-### My Work
 ###### GitHub
 * [Actions Published by @austenstone](https://github.com/marketplace?query=publisher%3Aaustenstone)
 * [Actions Typescript Template](https://github.com/austenstone/action-typescript)
@@ -147,3 +142,7 @@ This is the song I'm currently listening to...
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=austenstone" target="_blank">Follow on LinkedIn</a>
+
+<!-- <a href="#">
+  <img align="right" width="250" src="https://user-images.githubusercontent.com/22425467/176839017-b36e4fbb-83a1-4d0d-aef5-fbab34310cce.gif">
+</a> -->
