@@ -1,6 +1,7 @@
 name: Future Run
 
 on:
+  workflow_dispatch:
   workflow_call:
   schedule:
     - cron: '* * * * *'
