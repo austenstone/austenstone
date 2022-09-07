@@ -19,7 +19,7 @@ jobs:
               repo: context.repo.repo,
             })
             return artifacts.data[0].name
-      - uses: ".github/workflows/download-artifact-string.yml"
+      - uses: .github/actions/download-artifact-string
         with:
           name: ${{ steps.artifact.outputs.result }}
       - run: echo ${{ steps.download.outputs.string }}
