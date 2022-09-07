@@ -1,0 +1,14 @@
+name: Out of Office
+
+on:
+  workflow_dispatch:
+
+jobs:
+  ooo:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo ".github/workflows/future_run.yml" > status.txt
+      - uses: actions/upload-artifact@v3
+        with:
+          name: future-run-status-clear
+          path: status.txt
