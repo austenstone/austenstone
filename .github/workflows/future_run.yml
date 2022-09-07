@@ -18,7 +18,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
             })
-            return artifacts.data[0].name
+            return artifacts.data.artifacts[0].name
       - uses: austenstone/austenstone/.github/actions/download-artifact-string@main
         with:
           name: ${{ steps.artifact.outputs.result }}
