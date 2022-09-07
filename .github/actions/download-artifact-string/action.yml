@@ -23,6 +23,7 @@ runs:
         name: ${{ inputs.name }}
         path: ${{ inputs.path }}
     - run: unzip ${{ inputs.path }}
+      shell: bash
     - run: |
           OUTPUT=''
           for file in ${{ inputs.path }}/*.yml; do
@@ -31,3 +32,4 @@ runs:
           done
           echo "::set-output name=string::$OUTPUT"
       id: output
+      shell: bash
