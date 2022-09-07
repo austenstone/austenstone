@@ -3,17 +3,15 @@ description: Download an artifact as a string
 
 inputs:
   name:
-    type: string
     description: 'Artifact name'
     required: false
   path:
-    type: string
     description: 'Destination path'
     required: false
 outputs:
   string:
     description: "The contents of the archive"
-    value: ${{ jobs.run.steps.output.outputs.string }}
+    value: ${{ steps.output.outputs.string }}
 
 runs:
   using: "composite"
