@@ -1,0 +1,35 @@
+name: Download Artifact as String
+
+on:
+  workflow_dispatch:
+  workflow_call:
+    inputs:
+      name:
+        type: string
+        description: 'Artifact name'
+        required: false
+      path:
+        type: string
+        description: 'Destination path'
+        required: false
+    outputs:
+      string:
+        description: "The contents of the archive"
+        value: ${{ jobs.run.steps.output.outputs.string }}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/download-artifact@v3
+      with:
+        name: ${{ inputs.name }}
+        path: ${{ inputs.path }}
+    - run: unzip ${{ inputs.path }}
+    - run: |
+          OUTPUT=''
+          for file in ${{ inputs.path }}/*.yml; do
+            echo "Appending $file to string"
+            OUTPUT+=$(cat $file)
+          done
+          echo "::set-output name=string::$OUTPUT"
+      id: output

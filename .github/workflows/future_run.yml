@@ -11,10 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v6
+        id: artifact
         with:
           script: |
             const artifacts = await github.rest.actions.listArtifactsForRepo({
               owner: context.repo.owner,
               repo: context.repo.repo,
             })
-            console.log(artifacts.data)
+            return artifacts.data[0].name
+      - uses: ".github/workflows/download-artifact-string.yml"
+        with:
+          name: ${{ steps.artifact.outputs.result }}
+      - run: echo ${{ steps.download.outputs.string }}

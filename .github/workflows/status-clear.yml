@@ -1,4 +1,4 @@
-name: Future Run
+name: Status Clear
 
 on:
   workflow_dispatch:
