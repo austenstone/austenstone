@@ -19,7 +19,7 @@ jobs:
               repo: context.repo.repo,
             })
             return artifacts.data[0].name
-      - uses: .github/actions/download-artifact-string
+      - uses: .github/actions/download-artifact-string@main
         with:
           name: ${{ steps.artifact.outputs.result }}
       - run: echo ${{ steps.download.outputs.string }}
