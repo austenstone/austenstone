@@ -1,0 +1,19 @@
+name: Out of Office
+
+on:
+  workflow_call:
+  schedule:
+    - cron: '* * * * *'
+
+jobs:
+  ooo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v6
+        with:
+          script: |
+            const artifacts = await github.rest.actions.listArtifactsForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+            })
+            console.log(artifacts)
