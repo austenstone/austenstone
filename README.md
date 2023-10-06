@@ -70,9 +70,5 @@ This is the song I'm currently listening to...
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
+[![LinkedIn](https://github.com/austenstone/austenstone/assets/22425467/3fbe9b3b-fd0b-42fd-b9c9-8bce85a0f021)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=austenstone)
 
-[![spotify-github-profile](https://github.com/austenstone/austenstone/assets/22425467/3fbe9b3b-fd0b-42fd-b9c9-8bce85a0f021)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=austenstone)
-
-<!-- <a href="#">
-  <img align="right" width="250" src="https://user-images.githubusercontent.com/22425467/176839017-b36e4fbb-83a1-4d0d-aef5-fbab34310cce.gif">
-</a> -->
