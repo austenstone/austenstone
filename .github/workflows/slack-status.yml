@@ -56,3 +56,5 @@ jobs:
               }
             }
           '
+        env:
+          GH_TOKEN: ${{ secrets.TOKEN_USER_STATUS }}
