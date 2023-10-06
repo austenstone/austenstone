@@ -5,8 +5,6 @@
   <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 </a>
 
----
-
 ### Technologies 👨‍💻
 <a href="https://deno.land/">
   <img width="75" src="https://user-images.githubusercontent.com/22425467/176673339-356fb845-5eba-42c1-af0f-3c66953c3f65.gif">
