@@ -43,10 +43,6 @@
   <img align="right" width="200" src="https://user-images.githubusercontent.com/22425467/176723532-95aa9704-cbf1-4b54-9f03-271b7b4fb238.png">
 </a>
 
-<a href="https://raider.io/characters/us/aegwynn/Droodlez">
-  <img align="right" width="200" src="https://user-images.githubusercontent.com/22425467/176720095-5591ea3d-349b-45a0-8d9a-b5e0822e5693.png">
-</a>
-
 <a href="https://steamcommunity.com/id/bottlez/"><img src="https://www.steamidfinder.com/signature/76561198046923976.png" alt=" Steam Signature"/></a>
 
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
