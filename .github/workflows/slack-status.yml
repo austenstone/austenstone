@@ -18,7 +18,7 @@ jobs:
           SLACK_MEMBER_ID: ${{ vars.SLACK_MEMBER_ID }}
         with:
           script: |
-            const { App } = require('@slack/bolt')
+            const { App } = require('@slack/bolt');
             
             const app = new App({
               token: process.env.SLACK_BOT_TOKEN,
@@ -27,18 +27,17 @@ jobs:
             
             return (async () => {
               try {
-                res = await app.client.users.profile.get({
-                  user: process.env.SLACK_MEMBER_ID
-                });
-                statusText = res.profile.status_text;
+                const res = await app.client.users.profile.get({ user: process.env.SLACK_MEMBER_ID });
+                return {
+                  SLACK_STATUS: res?.profile?.status_text || '',
+                  SLACK_EMOJI: res?.profile?.status_emoji || ''
+                };
               } catch {
-                statusText = null;
+                return {
+                  SLACK_STATUS: '',
+                  SLACK_EMOJI: ''
+                };
               }
-              return {
-                SLACK_STATUS: statusText ? `> [!NOTE]  
-                > ${statusText}
-                ` : ''
-              };
             })();
       - uses: austenstone/markdown-interpolation-action@main
         with:
@@ -46,3 +45,14 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+      - run: |
+          gh api graphql -F message='${{ fromJSON(steps.status.outputs.result).SLACK_STATUS }}' -F emoji='${{ fromJSON(steps.status.outputs.result).SLACK_EMOJI }}' -f query='
+            mutation($message: String, $emoji: String) {
+              changeUserStatus(input: {
+                message: $message
+                emoji: $emoji
+              }) {
+                clientMutationId
+              }
+            }
+        '
