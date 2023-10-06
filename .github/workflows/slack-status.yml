@@ -1,0 +1,42 @@
+name: Slack Status
+on:
+  schedule:
+    - cron: "* * * * *"
+jobs:
+  write-time:
+    runs-on: ubuntu-latest
+    steps:
+      - run: npm install @slack/bolt
+      - uses: actions/github-script@v6
+        id: status
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_SIGNING_SECRET: ${{ secrets.SLACK_SIGNING_SECRET }}
+          SLACK_MEMBER_ID: ${{ vars.SLACK_MEMBER_ID }}
+        with:
+          script: |
+            const { App } = require('@slack/bolt')
+            
+            const app = new App({
+              token: process.env.SLACK_BOT_TOKEN,
+              signingSecret: process.env.SLACK_SIGNING_SECRET
+            });
+            
+            (async () => {
+              const {
+                profile: {
+                  status_text: statusText
+                }
+              } = await app.client.users.profile.get({
+                user: process.env.SLACK_MEMBER_ID
+              });
+              return {
+                SLACK_STATUS: statusText
+              };
+            })();
+      - uses: austenstone/markdown-interpolation-action@master
+        with:
+          values: ${{ steps.status.outputs.result }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
