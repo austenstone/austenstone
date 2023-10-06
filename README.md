@@ -1,28 +1,8 @@
 <!-- SLACK_STATUS --><!-- END SLACK_STATUS -->
 [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
+
 <a href="https://rubberduckdebugging.com/">
   <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
-</a>
-
-###### Other
-* [Rubber Duck Debugging](https://rubberduckdebugging.com/)
-* [git - the simple guide](https://rogerdudler.github.io/git-guide/)
-* [Hacker News](https://news.ycombinator.com/)
-* [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
-
----
-
-### Stats 📊
-
-<!-- <a href="#">
-  <img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=austenstone&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-<a href="#">
-  <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austenstone&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true&langs_count=8&layout=compact" />
-</a> -->
-
-<a href="https://metrics.lecoq.io/about/austenstone">
-  <img align="center" width="auto" src="https://metrics.lecoq.io/austenstone?template=classic&gists=1&stackoverflow=1&lines=1&stackoverflow.user=5092005&stackoverflow.sections=%20&stackoverflow.limit=0&stackoverflow.lines=0&stackoverflow.lines.snippet=0&config.timezone=America%2FNew_York&config.display=large" alt="Try refreshing again." />
 </a>
 
 ---
