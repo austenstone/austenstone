@@ -22,7 +22,7 @@ jobs:
               signingSecret: process.env.SLACK_SIGNING_SECRET
             });
             
-            (async () => {
+            return (async () => {
               const {
                 profile: {
                   status_text: statusText
