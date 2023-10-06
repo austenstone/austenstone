@@ -75,4 +75,6 @@ This is the song I'm currently listening to...
 
 </p>
 
-[![LinkedIn-Blue-21-Γö¼┬½@2x](https://github.com/austenstone/austenstone/assets/22425467/06c73df8-82f6-4609-a6ee-d4d78adc2f0e)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=austenstone)
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=austenstone">
+  <img width="100" src="https://github.com/austenstone/austenstone/assets/22425467/06c73df8-82f6-4609-a6ee-d4d78adc2f0e">
+</a>
