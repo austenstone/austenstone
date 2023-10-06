@@ -19,12 +19,12 @@ jobs:
         with:
           script: |
             const { App } = require('@slack/bolt');
-            
+
             const app = new App({
               token: process.env.SLACK_BOT_TOKEN,
               signingSecret: process.env.SLACK_SIGNING_SECRET
             });
-            
+
             return (async () => {
               try {
                 const res = await app.client.users.profile.get({ user: process.env.SLACK_MEMBER_ID });
@@ -55,4 +55,4 @@ jobs:
                 clientMutationId
               }
             }
-        '
+          '
