@@ -66,14 +66,9 @@ This is the song I'm currently listening to...
   <img width="50" src="https://user-images.githubusercontent.com/22425467/176836837-0e68ab08-472f-4aa5-ac53-736e4f7ae7f1.gif">
 </a>
 
-<p align="left">
-  
-  [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
-  [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustenstone%2Faustenstone&count_bg=%23238636&title_bg=%23010409&icon=github.svg&icon_color=%23E6EDF3&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</p>
+[![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
+[![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustenstone%2Faustenstone&count_bg=%23238636&title_bg=%23010409&icon=github.svg&icon_color=%23E6EDF3&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=austenstone">
   <img width="100" src="https://github.com/austenstone/austenstone/assets/22425467/06c73df8-82f6-4609-a6ee-d4d78adc2f0e">
