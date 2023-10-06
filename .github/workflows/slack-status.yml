@@ -35,7 +35,7 @@ jobs:
                 SLACK_STATUS: statusText
               };
             })();
-      - uses: austenstone/markdown-interpolation-action@master
+      - uses: austenstone/markdown-interpolation-action@main
         with:
           values: ${{ steps.status.outputs.result }}
       - uses: stefanzweifel/git-auto-commit-action@v4
