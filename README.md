@@ -1,55 +1,5 @@
 <!-- SLACK_STATUS --><!-- END SLACK_STATUS -->
 [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
-### My Work
-<a href="#">
-  <img align="right" width="31%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">
-</a>
-
-###### GitHub
-* [Actions Published by @austenstone](https://github.com/marketplace?query=publisher%3Aaustenstone)
-* [Actions Typescript Template](https://github.com/austenstone/action-typescript)
-* [Actions JavaScript Template](https://github.com/austenstone/action-javascript)
-* [Actions Docker](https://github.com/austenstone/action-docker)
-* [Actions C](https://github.com/austenstone/action-c)
-* [Actions Playground](https://github.com/austenstone/actions-playground/tree/main/.github/workflows)
-* [Codespace for Typescript Angular](https://github.com/austenstone/angular-codespace)
-* [Submodules Migration Utility](https://github.com/austenstone/migrate-submodules)
-* [GitHub GraphQL API Usage/Examples](https://github.com/austenstone/gh-api-graphql)
-* [Syncing Repositories Using Actions](https://github.com/austenstone/sample1)
-* [SAST Benchmark Utility](https://github.com/austenstone/sast-benchmark)
-* [dotfiles](https://github.com/austenstone/dotfiles)
-* [.github repo](https://github.com/austenstone/.github)
-* [GitHub OAuth using Fresh](https://github.com/austenstone/fresh-github-oauth)
-* [CoPilot Demo](https://github.com/austenstone/copilot-demo)
-* [Actions rsync demo](https://github.com/austenstone/rsync)
-* [Pinned-gist Crypto](https://github.com/austenstone/crypto-box)
-* [Sync multiple git repos](https://github.com/austenstone/sample1)
-<!-- * [GitHub Resources](https://github.com/austenstone/github-resources) -->
-<!-- * [Actions Best Practices](https://github.com/austenstone/github-actions-best-practices) -->
-
-### Random Resources & Tips 🤪
-
-<a href="https://lab.github.com/">
-  <img align="right" width="200" src="https://octodex.github.com/images/Professortocat_v2.png">
-</a>
-
-###### Learn
-* [LearnXinYminutes](http://learnxinyminutes.com/)
-* [Fireship IO YouTube](https://www.youtube.com/c/Fireship)
-* [The Modern JavaScript Tutorial](https://javascript.info/)
-
-###### Practice
-* [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
-* [Project Euler](https://projecteuler.net/archives)
-* [Advent of Code](https://adventofcode.com/2021/about)
-* [Code Signal](https://app.codesignal.com/login)
-
-###### Design
-* [Material Design](https://material.io/)
-* [Laws of UX](https://lawsofux.com/)
-* [Undraw (Open-source SVG illustrations)](https://undraw.co/illustrations)
-* [Coolors](https://coolors.co/palettes/trending)
-
 <a href="https://rubberduckdebugging.com/">
   <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 </a>
