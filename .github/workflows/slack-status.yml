@@ -24,15 +24,18 @@ jobs:
             });
             
             return (async () => {
-              const {
-                profile: {
-                  status_text: statusText
-                }
-              } = await app.client.users.profile.get({
-                user: process.env.SLACK_MEMBER_ID
-              });
+              try {
+                res = await app.client.users.profile.get({
+                  user: process.env.SLACK_MEMBER_ID
+                });
+                statusText = res.profile.status_text;
+              } catch {
+                statusText = null;
+              }
               return {
-                SLACK_STATUS: statusText
+                SLACK_STATUS: statusText ? `> [!NOTE]  
+                > ${statusText}
+                ` : ''
               };
             })();
       - uses: austenstone/markdown-interpolation-action@main
