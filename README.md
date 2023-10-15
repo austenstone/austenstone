@@ -1,5 +1,5 @@
 <a href="https://rubberduckdebugging.com/">
-  <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
+  <img align="right" width="150" src="https://github.com/austenstone/austenstone/assets/22425467/aadf88c8-f1e7-4dfe-a8e3-f426884bf498">
 </a>
 
 <!-- SLACK_STATUS --><!-- END SLACK_STATUS -->
