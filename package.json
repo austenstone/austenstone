@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@slack/bolt": "^3.17.0"
+    "@slack/bolt": "^3.17.1"
   }
 }
