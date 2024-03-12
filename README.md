@@ -10,10 +10,6 @@
   </picture>
 </a>
 
-<a href="https://www.strava.com/athletes/4518741">
-  <img width="200" src="https://user-images.githubusercontent.com/22425467/176723510-a9406fdb-89df-4fa4-af6f-5ce07d437adf.png">
-</a>
-
 <a href="https://www.fau.edu/">
   <img align="right" width="200" src="https://user-images.githubusercontent.com/22425467/176723532-95aa9704-cbf1-4b54-9f03-271b7b4fb238.png">
 </a>
@@ -38,4 +34,8 @@ This is the song I'm currently listening to...
 
 <a href="https://www.linkedin.com/in/austenstone/">
   <img width="100" src="https://github-production-user-asset-6210df.s3.amazonaws.com/22425467/273227655-06c73df8-82f6-4609-a6ee-d4d78adc2f0e.png">
+</a>
+
+<a href="https://www.strava.com/athletes/4518741">
+  <img align="right" width="200" src="https://user-images.githubusercontent.com/22425467/176723510-a9406fdb-89df-4fa4-af6f-5ce07d437adf.png">
 </a>
