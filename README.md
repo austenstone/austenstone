@@ -1,3 +1,11 @@
+<a href="https://stackoverflow.com/users/5092005/austen-stone">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png?theme=dark">
+    <source media="(prefers-color-scheme: light)" media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png">
+    <img align="right" src="https://stackoverflow.com/users/flair/5092005.png?theme=dark" width="208" height="58" alt="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </picture>
+</a>
+
 <a href="https://rubberduckdebugging.com/">
   <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 </a>
@@ -23,14 +31,6 @@
 </a>
 <a href="https://www.rust-lang.org/">
   <img width="75" src="https://rustacean.net/assets/cuddlyferris.svg">
-</a>
-
-<a href="https://stackoverflow.com/users/5092005/austen-stone">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png?theme=dark">
-    <source media="(prefers-color-scheme: light)" media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png">
-    <img align="right" src="https://stackoverflow.com/users/flair/5092005.png?theme=dark" width="208" height="58" alt="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-  </picture>
 </a>
 
 ### Fun 🎈
