@@ -1,3 +1,7 @@
+<!-- SLACK_STATUS --><!-- END SLACK_STATUS -->
+[![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
+
+### Technologies 👨‍💻
 <a href="https://stackoverflow.com/users/5092005/austen-stone">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png?theme=dark">
@@ -10,10 +14,6 @@
   <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 </a>
 
-<!-- SLACK_STATUS --><!-- END SLACK_STATUS -->
-[![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
-
-### Technologies 👨‍💻
 <a href="https://deno.land/">
   <img width="75" src="https://user-images.githubusercontent.com/22425467/176673339-356fb845-5eba-42c1-af0f-3c66953c3f65.gif">
 </a>
