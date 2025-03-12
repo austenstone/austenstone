@@ -53,7 +53,7 @@
 
 This is the song I'm currently listening to...
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/1224818142?si=47ea2387152f491e)
 
 ### Thanks for checking out my profile! 👋
 
