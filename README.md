@@ -51,13 +51,7 @@
   <img align="right" width="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
 
-### Music 🎵
-
-This is the song I'm currently listening to...
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&redirect=true)
-
-### Thanks for checking out my profile! 👋
 
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
   <img width="50" src="https://user-images.githubusercontent.com/22425467/176836837-0e68ab08-472f-4aa5-ac53-736e4f7ae7f1.gif">
