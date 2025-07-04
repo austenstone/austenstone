@@ -15,25 +15,6 @@
   <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 </a>
 
-<a href="https://deno.land/">
-  <img width="75" src="https://user-images.githubusercontent.com/22425467/176673339-356fb845-5eba-42c1-af0f-3c66953c3f65.gif">
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img width="75" src="https://user-images.githubusercontent.com/22425467/176674407-481a583a-bbb4-4e2e-ab19-c6d929d79549.png">
-</a>
-<a href="https://angular.io/">
-  <img width="75" src="https://angular.io/assets/images/logos/angular/angular.svg">
-</a>
-<a href="https://www.docker.com/">
-  <img width="75" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
-</a>
-<a href="">
-  <img width="75" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
-</a>
-<a href="https://www.rust-lang.org/">
-  <img width="75" src="https://rustacean.net/assets/cuddlyferris.svg">
-</a>
-
 <a href="https://www.strava.com/athletes/4518741">
   <img width="200" src="https://user-images.githubusercontent.com/22425467/176723510-a9406fdb-89df-4fa4-af6f-5ce07d437adf.png">
 </a>
