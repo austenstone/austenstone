@@ -1,7 +1,6 @@
 <!-- SLACK_STATUS --><!-- END SLACK_STATUS -->
 [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-### Technologies 👨‍💻
 <a href="https://stackoverflow.com/users/5092005/austen-stone">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png?theme=dark">
@@ -34,8 +33,6 @@
 <a href="https://www.rust-lang.org/">
   <img width="75" src="https://rustacean.net/assets/cuddlyferris.svg">
 </a>
-
-### Fun 🎈
 
 <a href="https://www.strava.com/athletes/4518741">
   <img width="200" src="https://user-images.githubusercontent.com/22425467/176723510-a9406fdb-89df-4fa4-af6f-5ce07d437adf.png">
