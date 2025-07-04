@@ -9,7 +9,9 @@
   </picture>
 </a>
 
+<a href="https://lethalcompanygame.com/">
 <img align="right" width="150" src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif">
+</a>
 
 <a href="https://rubberduckdebugging.com/">
   <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
