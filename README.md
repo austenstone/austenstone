@@ -44,3 +44,5 @@
 <a href="https://www.linkedin.com/in/austenstone/">
   <img width="100" src="https://github-production-user-asset-6210df.s3.amazonaws.com/22425467/273227655-06c73df8-82f6-4609-a6ee-d4d78adc2f0e.png">
 </a>
+
+![Metrics](/github-metrics.svg)

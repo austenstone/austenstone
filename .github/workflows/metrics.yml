@@ -29,6 +29,7 @@ jobs:
           config_timezone: America/New_York
           plugin_gists: yes
           plugin_lines: yes
+          plugin_rss: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 0
           plugin_stackoverflow_sections: ''
