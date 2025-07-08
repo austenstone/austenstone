@@ -52,13 +52,14 @@ jobs:
           plugin_repositories_starred: 5
           plugin_rss: yes
           plugin_rss_source: https://austen.info/blog/rss.xml
-          plugin_rss_limit: 5
           plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
-          plugin_stackoverflow_lines: 4
-          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_limit: 0
+          plugin_stackoverflow_sections: ''
+          plugin_stackoverflow_lines: 0
+          plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_user: 5092005
           plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
@@ -66,6 +67,7 @@ jobs:
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_user: bottlez
           plugin_stock: yes
+          plugin_stock_token: ${{ secrets.YAHOO_FINANCE_TOKEN }}
           plugin_stock_duration: 1y
           plugin_stock_interval: 5m
           plugin_stock_symbol: MSFT
