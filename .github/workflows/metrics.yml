@@ -65,7 +65,7 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: bottlez
+          plugin_steam_user: ${{ secrets.STEAM_ID }}
           plugin_stock: yes
           plugin_stock_token: ${{ secrets.YAHOO_FINANCE_TOKEN }}
           plugin_stock_duration: 1y
