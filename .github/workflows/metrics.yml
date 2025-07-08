@@ -30,6 +30,7 @@ jobs:
           plugin_gists: yes
           plugin_lines: yes
           plugin_rss: yes
+          plugin_rss_source: https://austen.info/blog/rss.xml
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 0
           plugin_stackoverflow_sections: ''
