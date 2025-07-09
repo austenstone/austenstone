@@ -1,6 +1,30 @@
 <!-- SLACK_STATUS --><!-- END SLACK_STATUS -->
 [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
+<a href="https://austen.info/blog">
+  <img src="metrics/rss.svg" alt="Blog" width="100%">
+</a>
+
+<a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
+  <img src="metrics/music.svg" alt="Spotify" width="100%">
+</a>
+
+<a href="https://steamcommunity.com/id/bottlez">
+  <img src="metrics/steam.svg" alt="Steam" width="100%">
+</a>
+
+<a href="https://stackoverflow.com/users/5092005/austen-stone">
+  <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="100%">
+</a>
+
+<a href="https://leetcode.com/u/miltonlaxer">
+  <img src="metrics/leetcode.svg" alt="LeetCode" width="100%">
+</a>
+
+<picture>
+  <img src="metrics/github-metrics.svg" alt="Metrics" width="100%">
+</picture>
+
 <a href="https://stackoverflow.com/users/5092005/austen-stone">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png?theme=dark">
@@ -25,13 +49,13 @@
   <img align="right" width="200" src="https://user-images.githubusercontent.com/22425467/176723532-95aa9704-cbf1-4b54-9f03-271b7b4fb238.png">
 </a>
 
-<a href="https://steamcommunity.com/id/bottlez/"><img src="https://www.steamidfinder.com/signature/76561198046923976.png" alt=" Steam Signature"/></a>
+<!-- <a href="https://steamcommunity.com/id/bottlez/"><img src="https://www.steamidfinder.com/signature/76561198046923976.png" alt=" Steam Signature"/></a> -->
 
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
   <img align="right" width="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&redirect=true)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
 
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
   <img width="50" src="https://user-images.githubusercontent.com/22425467/176836837-0e68ab08-472f-4aa5-ac53-736e4f7ae7f1.gif">
@@ -44,27 +68,3 @@
 <a href="https://www.linkedin.com/in/austenstone/">
   <img width="100" src="https://github-production-user-asset-6210df.s3.amazonaws.com/22425467/273227655-06c73df8-82f6-4609-a6ee-d4d78adc2f0e.png">
 </a>
-
-<a href="https://austen.info/blog">
-  <img src="metrics/rss.svg" alt="Blog" width="100%">
-</a>
-
-<a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
-  <img src="metrics/music.svg" alt="Spotify" width="100%">
-</a>
-
-<a href="https://steamcommunity.com/id/bottlez">
-  <img src="metrics/steam.svg" alt="Steam" width="100%">
-</a>
-
-<a href="https://stackoverflow.com/users/5092005/austen-stone">
-  <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="100%">
-</a>
-
-<a href="https://leetcode.com/u/miltonlaxer">
-  <img src="metrics/leetcode.svg" alt="LeetCode" width="100%">
-</a>
-
-<picture>
-  <img src="metrics/github-metrics.svg" alt="Metrics" width="100%">
-</picture>
