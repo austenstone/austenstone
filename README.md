@@ -1,6 +1,11 @@
-<a href="https://austen.info/blog">
-  <img src="metrics/rss.svg" alt="Blog" width="400" align="top">
-</a>
+<p>
+  <a href="https://austen.info/blog">
+    <img src="metrics/rss.svg" alt="Blog" width="400" align="top">
+  </a>
+  <a href="https://rubberduckdebugging.com/">
+    <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
+  </a>
+</p>
 
 <p>
   <a href="https://leetcode.com/u/miltonlaxer">
@@ -31,10 +36,6 @@
 
 <a href="https://lethalcompanygame.com/">
 <img align="right" width="150" src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif">
-</a>
-
-<a href="https://rubberduckdebugging.com/">
-  <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 </a>
 
 <a href="https://www.strava.com/athletes/4518741">
