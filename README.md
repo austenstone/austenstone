@@ -2,27 +2,27 @@
 [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
 <a href="https://austen.info/blog">
-  <img src="metrics/rss.svg" alt="Blog" width="100%">
+  <img src="metrics/rss.svg" alt="Blog" width="75%">
 </a>
 
 <a href="https://stackoverflow.com/users/5092005/austen-stone">
-  <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="100%">
+  <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="75%">
 </a>
 
 <a href="https://leetcode.com/u/miltonlaxer">
-  <img src="metrics/leetcode.svg" alt="LeetCode" width="100%">
+  <img src="metrics/leetcode.svg" alt="LeetCode" width="75%">
 </a>
 
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
-  <img src="metrics/music.svg" alt="Spotify" width="100%">
+  <img src="metrics/music.svg" alt="Spotify" width="75%">
 </a>
 
 <a href="https://steamcommunity.com/id/bottlez">
-  <img src="metrics/steam.svg" alt="Steam" width="100%">
+  <img src="metrics/steam.svg" alt="Steam" width="75%">
 </a>
 
 <picture>
-  <img src="metrics/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="metrics/github-metrics.svg" alt="Metrics" width="75%">
 </picture>
 
 <a href="https://stackoverflow.com/users/5092005/austen-stone">
