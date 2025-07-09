@@ -45,9 +45,26 @@
   <img width="100" src="https://github-production-user-asset-6210df.s3.amazonaws.com/22425467/273227655-06c73df8-82f6-4609-a6ee-d4d78adc2f0e.png">
 </a>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
+<a href="https://austen.info/blog">
+  <img src="metrics/rss.svg" alt="Blog" width="100%">
+</a>
 
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
-  <img src="/music.svg" alt="Metrics" width="100%">
+  <img src="metrics/music.svg" alt="Spotify" width="100%">
 </a>
+
+<a href="https://steamcommunity.com/id/bottlez">
+  <img src="metrics/steam.svg" alt="Steam" width="100%">
+</a>
+
+<a href="https://stackoverflow.com/users/5092005/austen-stone">
+  <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="100%">
+</a>
+
+<a href="https://leetcode.com/u/miltonlaxer">
+  <img src="metrics/leetcode.svg" alt="LeetCode" width="100%">
+</a>
+
+<picture>
+  <img src="metrics/github-metrics.svg" alt="Metrics" width="100%">
+</picture>
