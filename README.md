@@ -4,18 +4,16 @@
 
 <table>
   <tr>
-    <td>
-      <a href="https://stackoverflow.com/users/5092005/austen-stone" style="text-decoration: none;">
-        <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="400" align="top">
-      </a>
-    </td>
-    <td>
+    <td style="vertical-align: top; text-align: center;">
       <a href="https://leetcode.com/u/miltonlaxer" style="text-decoration: none;">
-        <img src="metrics/leetcode.svg" alt="LeetCode" width="400" align="top">
+        <img src="metrics/leetcode.svg" alt="LeetCode" width="400">
       </a>
     </td>
-  </tr>
-  <tr>
+    <td style="vertical-align: top; text-align: center;">
+      <a href="https://stackoverflow.com/users/5092005/austen-stone" style="text-decoration: none;">
+        <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="400">
+      </a>
+    </td>
   </tr>
 </table>
 
