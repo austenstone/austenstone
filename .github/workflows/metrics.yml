@@ -47,6 +47,11 @@ jobs:
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
           plugin_leetcode_user: miltonlaxer
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          plugin_music_limit: 2
           # plugin_repositories: yes
           # plugin_repositories_order: featured, pinned, starred, random
           # plugin_repositories_starred: 5
@@ -68,9 +73,9 @@ jobs:
           plugin_steam_sections: player, most-played, recently-played
           # Account Details > Under Username at top
           plugin_steam_user: ${{ secrets.STEAM_ID }}
-          plugin_stock: yes
-          # https://www.financeapi.net/dashboard
-          plugin_stock_token: ${{ secrets.YAHOO_FINANCE_TOKEN }}
-          plugin_stock_duration: 1y
-          plugin_stock_interval: 5m
-          plugin_stock_symbol: MSFT
+          # plugin_stock: yes
+          # # https://www.financeapi.net/dashboard
+          # plugin_stock_token: ${{ secrets.YAHOO_FINANCE_TOKEN }}
+          # plugin_stock_duration: 1y
+          # plugin_stock_interval: 5m
+          # plugin_stock_symbol: MSFT
