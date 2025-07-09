@@ -23,8 +23,6 @@
       <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e" style="text-decoration: none;">
         <img src="metrics/music.svg" alt="Spotify" width="400" align="top">
       </a>
-    </td>
-    <td colspan="2" align="center">
       <a href="https://steamcommunity.com/id/bottlez" style="text-decoration: none;">
         <img src="metrics/steam.svg" alt="Steam" width="400" align="top">
       </a>
