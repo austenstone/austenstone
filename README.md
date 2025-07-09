@@ -22,13 +22,13 @@
   <img src="metrics/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
 
-<a href="https://stackoverflow.com/users/5092005/austen-stone">
+<!-- <a href="https://stackoverflow.com/users/5092005/austen-stone">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png?theme=dark">
     <source media="(prefers-color-scheme: light)" media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/5092005.png">
     <img align="right" src="https://stackoverflow.com/users/flair/5092005.png?theme=dark" width="208" height="58" alt="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Austen Stone at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </picture>
-</a>
+</a> -->
 
 <a href="https://lethalcompanygame.com/">
 <img align="right" width="150" src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif">
@@ -42,9 +42,9 @@
   <img width="200" src="https://user-images.githubusercontent.com/22425467/176723510-a9406fdb-89df-4fa4-af6f-5ce07d437adf.png">
 </a>
 
-<a href="https://www.fau.edu/">
+<!-- <a href="https://www.fau.edu/">
   <img align="right" width="200" src="https://user-images.githubusercontent.com/22425467/176723532-95aa9704-cbf1-4b54-9f03-271b7b4fb238.png">
-</a>
+</a> -->
 
 <!-- <a href="https://steamcommunity.com/id/bottlez/"><img src="https://www.steamidfinder.com/signature/76561198046923976.png" alt=" Steam Signature"/></a> -->
 
