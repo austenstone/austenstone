@@ -1,22 +1,26 @@
-<a href="https://austen.info/blog">
-  <img src="metrics/rss.svg" alt="Blog" width="75%">
+<a href="https://austen.info/blog" style="text-decoration: none;">
+  <img src="metrics/rss.svg" alt="Blog" width="400">
 </a>
 
-<a href="https://stackoverflow.com/users/5092005/austen-stone">
-  <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="75%">
-</a>
+<p>
+  <a href="https://stackoverflow.com/users/5092005/austen-stone">
+    <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="400">
+  </a>
 
-<a href="https://leetcode.com/u/miltonlaxer">
-  <img src="metrics/leetcode.svg" alt="LeetCode" width="75%">
-</a>
+  <a href="https://leetcode.com/u/miltonlaxer" style="text-decoration: none;">
+    <img src="metrics/leetcode.svg" alt="LeetCode" width="400">
+  </a>
+</p>
 
-<a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
-  <img src="metrics/music.svg" alt="Spotify" width="75%">
-</a>
+<p>
+  <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e" style="text-decoration: none;">
+    <img src="metrics/music.svg" alt="Spotify" width="400">
+  </a>
 
-<a href="https://steamcommunity.com/id/bottlez">
-  <img src="metrics/steam.svg" alt="Steam" width="75%">
-</a>
+  <a href="https://steamcommunity.com/id/bottlez" style="text-decoration: none;">
+    <img src="metrics/steam.svg" alt="Steam" width="400">
+  </a>
+</p>
 
 <picture>
   <img src="metrics/github-metrics.svg" alt="Metrics" width="100%">
