@@ -59,14 +59,17 @@ jobs:
           plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_user: 5092005
           plugin_steam: yes
+          # https://steamcommunity.com/dev/apikey
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
+          # Account Details > Under Username at top
           plugin_steam_user: ${{ secrets.STEAM_ID }}
           plugin_stock: yes
+          # https://www.financeapi.net/dashboard
           plugin_stock_token: ${{ secrets.YAHOO_FINANCE_TOKEN }}
           plugin_stock_duration: 1y
           plugin_stock_interval: 5m
