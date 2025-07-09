@@ -19,17 +19,15 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e" style="text-decoration: none;">
-        <img src="metrics/music.svg" alt="Spotify" width="400" align="top">
-      </a>
-      <a href="https://steamcommunity.com/id/bottlez" style="text-decoration: none;">
-        <img src="metrics/steam.svg" alt="Steam" width="400" align="top">
-      </a>
-    </td>
   </tr>
 </table>
 
+<a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e" style="text-decoration: none;">
+  <img src="metrics/music.svg" alt="Spotify" width="400" align="top">
+</a>
+<a href="https://steamcommunity.com/id/bottlez" style="text-decoration: none;">
+  <img src="metrics/steam.svg" alt="Steam" width="400" align="top">
+</a>
 <picture>
   <img src="metrics/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
