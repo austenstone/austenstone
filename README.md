@@ -5,20 +5,20 @@
   <img src="metrics/rss.svg" alt="Blog" width="100%">
 </a>
 
-<a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
-  <img src="metrics/music.svg" alt="Spotify" width="100%">
-</a>
-
-<a href="https://steamcommunity.com/id/bottlez">
-  <img src="metrics/steam.svg" alt="Steam" width="100%">
-</a>
-
 <a href="https://stackoverflow.com/users/5092005/austen-stone">
   <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="100%">
 </a>
 
 <a href="https://leetcode.com/u/miltonlaxer">
   <img src="metrics/leetcode.svg" alt="LeetCode" width="100%">
+</a>
+
+<a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
+  <img src="metrics/music.svg" alt="Spotify" width="100%">
+</a>
+
+<a href="https://steamcommunity.com/id/bottlez">
+  <img src="metrics/steam.svg" alt="Steam" width="100%">
 </a>
 
 <picture>
@@ -55,7 +55,10 @@
   <img align="right" width="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&redirect=true)
+
+<!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&redirect=true) -->
 
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
   <img width="50" src="https://user-images.githubusercontent.com/22425467/176836837-0e68ab08-472f-4aa5-ac53-736e4f7ae7f1.gif">
