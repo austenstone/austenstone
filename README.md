@@ -5,25 +5,25 @@
         <img src="metrics/rss.svg" alt="Blog" width="400" align="top">
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://stackoverflow.com/users/5092005/austen-stone" style="text-decoration: none;">
         <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="400" align="top">
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://leetcode.com/u/miltonlaxer" style="text-decoration: none;">
         <img src="metrics/leetcode.svg" alt="LeetCode" width="400" align="top">
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e" style="text-decoration: none;">
         <img src="metrics/music.svg" alt="Spotify" width="400" align="top">
       </a>
     </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <a href="https://steamcommunity.com/id/bottlez" style="text-decoration: none;">
         <img src="metrics/steam.svg" alt="Steam" width="400" align="top">
