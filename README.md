@@ -1,11 +1,8 @@
+<a href="https://austen.info/blog" style="text-decoration: none;">
+  <img src="metrics/rss.svg" alt="Blog" width="400" align="top">
+</a>
+
 <table>
-  <tr>
-    <td>
-      <a href="https://austen.info/blog" style="text-decoration: none;">
-        <img src="metrics/rss.svg" alt="Blog" width="400" align="top">
-      </a>
-    </td>
-  </tr>
   <tr>
     <td>
       <a href="https://stackoverflow.com/users/5092005/austen-stone" style="text-decoration: none;">
