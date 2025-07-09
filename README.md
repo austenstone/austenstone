@@ -3,7 +3,7 @@
     <img src="metrics/rss.svg" alt="Blog" width="400" align="top">
   </a>
   <a href="https://rubberduckdebugging.com/">
-    <img align="right" width="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
+    <img align="right" height="150" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
   </a>
 </p>
 
