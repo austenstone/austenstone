@@ -12,8 +12,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      # - uses: lowlighter/metrics@latest
-      - uses: austenstone/metrics@patch-1
+      - name: Install dependencies for nokogiri
+        run: sudo apt-get update && sudo apt-get install -y build-essential patch ruby-dev zlib1g-dev liblzma-dev libxml2-dev libxslt1-dev
+        
+      - uses: austenstone/metrics@patch-1 # - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
