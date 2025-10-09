@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="834" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="466" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .about{flex-grow:1}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .about{flex-grow:1}.steam .media .infos,.steam .media .name{display:flex;align-items:center;justify-content:space-between}.steam .media .name{font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -88,31 +88,6 @@
                                             64 / 133 achievements unlocked
                                         </div>
                                     </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwj/xAAtEAACAQMCBAQFBQAAAAAAAAABAgMEBREABhITIUEiMVFhFCMycaEVUoGR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//EABkRAAMBAQEAAAAAAAAAAAAAAAABESECMf/aAAwDAQACEQMRAD8A5zneTnnxEAu3f31TbS2xcdz1ZpLVBz6leEsgJyFJxxfYHH9jQVut0VbVwpM4ijLkvIfJFz1Y/bWt1u1Yts2uamtV0ql3bHR/HQGiMkEZpyfGiEH5jBVJJ6d/PUYPqmbbs2pctr1opLxB8PM5Yxq2QWQHAf7Hr37HSblqkbnHiHUH01o1NbJNw00Md0udTNuGaAzn4x5JkECnKqxP0Eg5H+6gbnAsFRPHHIsiD6XU5DDsdQbQq05D8s4AmjeME9ifL8gaorFPWRVEN3rJqjk2kBIeJjnj6lYV9skkjsudS0EsaRhXkUEZBB8x1OmYukUkQjqZVkUHiGJCpzjGT2J9yM++gydvg33fzXm/X7SZlobsvBKqE/Jm6cynJ9MgFfVSPQ6ma+MJG6cIJjQIxH7u/wCSR/GipLoI6cwUk3LjLcZBkLeLGMgeQODjOM++gpZYWpnVJFJIwF7nSKtWH//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Toss It, Dice It, Any Way You Slice It</div>
-                                                <div class="unlocked">7 Jan 2024</div>
-                                            </div>
-                                            <div class="description">Reach Hatchet Mastery level 20.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBP/EACcQAAEEAQIGAgMBAAAAAAAAAAECAwQRBQASBgcTITFBIlEVYaGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/8QAGREAAwEBAQAAAAAAAAAAAAAAAAEhAhES/9oADAMBAAIRAxEAPwDOb63OubUQCtXv96W+HOTmRyGLgzchlIMBM1rrNNFC3XNhAo0K+xdXV99RXD+JlSzLmw4apJgNF9W0bunatoXXsAkH++tOXKLKxcBjuHmcw+7GOYbdbQ8HQpStjqin5XaQorIr7T+9DH0m+Mi+IeSmTx2InZCBlIc9qG0p55AbU0sJAs0LPq6urrRb00obUa+Q7g/WtD83c0xncfxHHwzzsr8My2246p0JUne8kq72CoJ2ePtQHkaDeIocxpEWZNiqjGcx1k7hXVpRSVgegSL/ANPvQjdh1cMT8jCTKjYyUuKqewWFlBKS4kL3BAI8bimv5703co8SzmoXD7mRjvzHsU067HZ6YGwqcUATYFpTsBvv3UfYFZ+YebQ2kLcSCLBB8jvpVwnOR+JiIePyeOx+QaiNhplxS1IWABXmj37dyKvQzU1Sp5w42NhYPETuMafiScqw05JZ6YO8pcSDVX8VBfc9juSPd6EuIZM19lljIvGQ7EY6IUolSkWd2wk+dt1+vHrV7necMiVipsDFY3H49M1otPuhanFlJBBo0O9H3daMXnmlRlpQ4CoigPZ0LqtcR//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Time Played III: It's Morning? Already?!!</div>
-                                                <div class="unlocked">2 Jan 2024</div>
-                                            </div>
-                                            <div class="description">Play for 320 hours.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+62 others...</div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -153,31 +128,6 @@
                                             54 / 92 achievements unlocked
                                         </div>
                                     </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQMEBgD/xAAnEAADAAIBAwQCAgMAAAAAAAABAgMEEQAFEiEGIjFhQYETMlFxof/EABcBAQEBAQAAAAAAAAAAAAAAAAECBQf/xAAjEQACAQMDBAMAAAAAAAAAAAABAgMABBESITETQaHRUYGx/9oADAMBAAIRAxEAPwDOVokZNSrBEUbLH4A4Zm9RsuM1P4GlBwUVn3/IxIOu1ANj98mymnkdQxotSZim6MvePc40FXX15OvocF9V5+XLIE5qUhMLRaa/u+/wfrmBDHqYCugXtyY42cHAG22+T6pmeTkxhN6wFodi7pJu5x4GyVPz+uXpUS0lpJg6MNhh8EczvprqmRRayeGRWSgNMqASoP4J3+xxXFZMfPyYh5rKmqKpcDtc+GXW/wA+Dr74Sx6SQeRVWtyJFVwcg/PY+tvyuylnj9QxrNOYi+5s3YPa58q2/vyN/Y4P6ym+RldOxpjupUsqqx9oPgd3++aWs0tJp1UOjDRU/BHBsrp+RPNx6ydrThOhQ0UMyHt8AHeyf8eOMDgMGPIzUX0DNG0YGQxHHbcZ8VF6QcyTNwKKi1x6+e0f2B/P/OI4ypk9QybCczJNTVuwe5x5Zt/XgfrlLD6bds3JrVmil0mztNQGf2jY3vY8/PgcalNIyWclCIo0FHwBwmYaiRyaqyifpqjjAUn73OPFf//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Something of a scientist myself</div>
-                                                <div class="unlocked">4 Mar 2023</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwUA/8QAKxAAAgIBAwMCBAcAAAAAAAAAAQIDBAUAESESE2EGMRVBUdEiQnGRobHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQCBQb/xAAjEQABAwQCAQUAAAAAAAAAAAABAgMEAAUhMRJBEVFhseHw/9oADAMBAAIRAxEAPwAf/vXDWRn8yMX2o0haaxMD0KPYf4/LQvk81atxdu3OldQdzFW5Y+Cd9v51QtRVuAHQrfy7qzGJRtQ6+9UWxZmoRJ3pEiaMlXUsCQd9vtrSPGlGF7k4FcEFj0oCw35499NLGR2Y6Ua3XRpQAPwDbpGw48nzqcqMlkAg7oFquTkwqStOu6hlcZWycAisqd15V14Zf00M+ovTdWnj2s0zIpjI61Zt91+e3nRnqi5Ur3YhFaiWWMMG6W9t9CZkLbIzim5lvakpUeI5EYPxS0yNavCWStYSdFAdXHBYH3B8g6YeBstbw9WV3DuU2Yj6jj99UXsBSsVGhggirv8AlkVASPvqWCxPwmKSNbMkyud+lgAFP1GjyH0PNjORSECA/Dkk+BwUOjr03n2/Gv/Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Craft a Nailgun</div>
-                                                <div class="unlocked">3 Mar 2023</div>
-                                            </div>
-                                            <div class="description">Craft a Nailgun</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+52 others...</div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -216,31 +166,6 @@
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
                                             10 / 88 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABwUBAwQG/8QAKhAAAgECBgAFBAMAAAAAAAAAAQIDBBEABQYSITETI0FRYQdxgaEUQrH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQA/8QAIxEAAgICAQQCAwAAAAAAAAAAAQIEEQADMQUSIYEiUUFx4f/aAAwDAQACEQMRAD8AAPp7oqs1nmTwUzrFTxDzprqTHdWKnaSCRdbcdYUhlGgdM10WWtE2a5uW3eFAnilG8Paezbb21jcAm9+BivkQh099OMuo6afZJVgszxVAlCgi7FHAHBNzb06uceNpqWgWoWSioY1nJ5kAu12G0m/fYv8AnEmiPsnEuW7UBoAcmucEmWkP4Bber88D6ytmWnNIZisUIoajL28uMAgI5WMkbVbkbjfknk8c4KtYaTrNNzKZLy0rWUThCq7yLlBfkkDs4SpEmmXbKYwHsGDMP7Cx/YH5PvjkzaI5vo6ogqU8WphXYsohWSRlPK7S3rcBSwN+8HfpaEQysWQmjfIzRZQmAq69rDyK4P8Ac7ktSupNBZXVUspaspHQSJK6bmRgVJYIOPUgWBsB742jopIUZVMavc28u/Nt69n3BH4+9x7TWpavIxLFES1PJcmO9huNhuPFzYDrCpHrXIJGWRKqVmVFdgI9ttjXJ5PsSPm/xizpwWMrpsNC7HvnI+pps3ujals1R9cc/vLE0CqhEfZvtNhfm0i/sNiBraq/gZI8xRTE7lCJIy6kMu5QR7Hr4xmb6uy6njTwauVGiBjMYkBBaxYGy/BC357++CzUOeVGcT3lklMSncquxJBIF/8AMNvkpIB1qpr7xYkHZHZdrt5/I9Z//9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Solaris</div>
-                                                <div class="unlocked">1 Sept 2023</div>
-                                            </div>
-                                            <div class="description">Produce more than 10 GJ per hour using only solar panels.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAAMI/8QAKhAAAgEDBAIBBAEFAAAAAAAAAQIDBAYRAAUSIRMxQQcUImEyFkJRcZH/xAAWAQEBAQAAAAAAAAAAAAAAAAABBAX/xAAjEQACAQMEAgMBAAAAAAAAAAABAgMAESEEMUGRQlESE3Gh/9oADAMBAAIRAxEAPwDnezbWqLlq3WNxFTx9SyZBZMqxU8SRkZXHWqPDtFp7JVR0pphWVynyNGSGZTw4kd+gezhs49j0Na6mu/pP6dQNQODUyKsUDLKJVWRxyZ1bAyMAkD4JHvSTY1PVVO+JJEhkqZH5CNkZ2l+cDvJJ/wC51nXaclybKP7WgfhpwFAux59U+VVqbRNtEdRuW1/ZxkKqNSFmdkUjj03rlyILEEnAOprdtr1VvyozkzUr4CzKpC8iCeAz2SB70/35XVNJtO4RxGsgdZI1kSqiaKbmQTjGcfh8HHQbA1lEzXX9Pi1QhkrIw8DFYVeTyIAw48sYLDGSP3p+xorP4nehUSYFPLcURaKO67IpplJmqqZ4qkpI6lnC5VgQnokZIH6Gj+1bltVHW7fJS0GKmjADJkOCp/uDAdEY69n9f5itlXdV21UMIx5aVzloScDkcDkcDJwM9aqVPclqbqrStM1McOzBJPF+KMPyK9gE/HydTTQtGChBKna3FWaWaJ3EjWuBkG2e/fY3GaIXNue3bhU7hPudIZpq3BDeQM/EH+PYJOeu+vWgb0CWp9Op/vEXzVDSVEkckRkVPJhY0cdY6UZ76LfrRLcbmtXZ5XqI3WprVkYq0r+Xxvx5DiAABnocsHs/71Jr3uuouatDuvjp0JMaHHIZAyCR/LsZGmCJ5AqAEKMknn8o1c0au0gtc4AHHXrs85r/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Automated cleanup</div>
-                                                <div class="unlocked">12 May 2023</div>
-                                            </div>
-                                            <div class="description">Deconstruct 100 objects with the construction robots.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+8 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -291,31 +216,6 @@
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
                                             28 / 53 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQMEBgcC/8QALRAAAgEDAgQEBQUAAAAAAAAAAQIDBAURACEGEiJBBxMxURQjYXGRJUKB0fD/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAX/xAAoEQABAwEGBQUAAAAAAAAAAAABAgMRAAQFEiExYQYTQZGxIlFxgfD/2gAMAwEAAhEDEQA/APFx42iF0ro/OvAaOaRWKyqFGGOSOrYDB/jVGq8RKWGnpqv9caOqYiONHALE7hsF/wAfTtoO+WiSvpb6tJOkNZUVcsMbPsoXnJf8jbRS2y8CGJLlLT1Nwpy7w8hAU9ACgnAxjfQXleTbLvKZI9Os6kxOW29T3fw6w83jdScxlHz5rpCcdosG8dwKxpl2ZgSu37jz+ujLR4oU9+qGoLcLnHFUSLTGpeMchLbAD5me+fTXMrjDxzV26Shlt8IgmGGeIIpI+/N31svDyzyULWKinSOGoh+dMDgkMX7dskDGdQi8nEAcxSVEkCAenvVR4esYJUyhSYBMmdfvKo+IqiSGSqWEsG+MmYlTuOtv60VDcmYrzSF2O5Ztz/t9O3vh+8TXKealpZcNPKSGjJBBkYg/bGi14fuyROptVSW5gQViPuPprPtbZcfcURMqPmt2yOtoYbGICEjrtWhoKOvloJausqo0gRCRG3SzdWBj3B9ftqrQs0fGlrly3lyuIxj0zkHUVHarvESGttUd9j5RGmRa6yK4WSQUc6pFVK8rFDhR3J9hoENKVaE4G4H7OlcdbSwvE4D27V//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Engineering Success</div>
-                                                <div class="unlocked">3 Oct 2025</div>
-                                            </div>
-                                            <div class="description">Collect the full Manufacturing uniform.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQYHAgQI/8QAMRAAAQQBAwEFBAsAAAAAAAAAAQIDBBEFAAYhEiIxQVFhBxNxoRUWIyYyUlVikbGz/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIxEAAQQBBAEFAAAAAAAAAAAAAQACAxEFBBIhQRMGFTEygf/aAAwDAQACEQMRAD8ADy/tYxrG4J0FxzPB1uU4ypSVpCAoLIsdvuscemmGd6NSCXm15gNmzQdHSST3/i1zxvQffDPX+oSP9FalXs7KpONfQ44XFMr6Qkq5Skjih5d+quPbFM/xzD9WeOwuPmdsmaee7Ku6FvJD7SktmWS0CD1rtRqv3eusY+8FZB44+OuW0ZKvcqWRdXY/PxqKbZaRBblNK61hxQ6guqo3QPkeP60nhmkOZiI70EfbAj43p8uhhG6roKlL6Y0ELPLC02L7Kqv6DazO6d1JkpAaRkJBDiSAoL61UPgb+WimsHKxE2E7Het/3/SVCwgjjg+nf/I0hnMJuyLvDOSsZisqlDsyQUuNR1FK0lxVEcURR79JQYO7DHZaZw+RC0opSnY6k0TV1Y5PHz1JhdGQARyEOKWPa3nkJidIehuR5MJa0udtZQo9hXS2ogHzFjUuxUphmZjVyZEdL7jjNMIPbtZFceA51X86DuqZaX8Vk+izSRHIq+PD0Ot3b2Dzv1oxcudjpqQiQ0px11ogJSkjknwFae7V/YX8pvuGyJzbuwe1/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Shadowgate</div>
-                                                <div class="unlocked">19 Feb 2025</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+26 others...</div>
                                         </div>
                                     </div>
                                 </div>
