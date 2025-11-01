@@ -48,17 +48,17 @@
 
 <!-- <a href="https://steamcommunity.com/id/bottlez/"><img src="https://www.steamidfinder.com/signature/76561198046923976.png" alt=" Steam Signature"/></a> -->
 
-<a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
+<!-- <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
   <img align="right" width="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-</a>
+</a> -->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&redirect=true)
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&redirect=true) -->
 
-<a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
+<!-- <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
   <img width="50" src="https://user-images.githubusercontent.com/22425467/176836837-0e68ab08-472f-4aa5-ac53-736e4f7ae7f1.gif">
-</a>
+</a> -->
 
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
@@ -70,6 +70,6 @@
 
 <!-- [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only) -->
 
-<a href="https://lethalcompanygame.com/">
+<!-- <a href="https://lethalcompanygame.com/">
 <img align="right" width="100" src="https://deno.com/images/homepage/peeking.svg">
-</a>
+</a> -->
