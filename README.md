@@ -68,4 +68,8 @@
   <img width="100" src="https://github-production-user-asset-6210df.s3.amazonaws.com/22425467/273227655-06c73df8-82f6-4609-a6ee-d4d78adc2f0e.png">
 </a>
 
-[![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
+<!-- [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only) -->
+
+<a href="https://lethalcompanygame.com/">
+<img align="right" width="100" src="https://deno.com/images/homepage/peeking.svg">
+</a>
