@@ -34,9 +34,8 @@
   </picture>
 </a> -->
 
-<a href="https://lethalcompanygame.com/">
-<img align="right" width="150" src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif">
-</a>
+<img align="right" width="150" alt="Gemini_Generated_Image_jzycc3jzycc3jzyc (1) (2)" src="https://github.com/user-attachments/assets/5c9ff61f-3c11-469a-8d8c-5bc0690613b6" />
+<img align="right" width="150" alt="My drawing" src="https://github.com/user-attachments/assets/d2140c1d-5747-4c79-8e69-131b0a6bd3eb" />
 
 <a href="https://www.strava.com/athletes/4518741">
   <img width="200" src="https://user-images.githubusercontent.com/22425467/176723510-a9406fdb-89df-4fa4-af6f-5ce07d437adf.png">
