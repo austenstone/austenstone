@@ -5,9 +5,6 @@
   <a href="https://stackoverflow.com/users/5092005/austen-stone">
     <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="400" align="top">
   </a>
-  <a href="https://rubberduckdebugging.com/">
-    <img align="right" height="150" width="auto" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
-  </a>
 </p>
 
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
