@@ -1,18 +1,12 @@
 <p>
   <a href="https://austen.info/blog">
     <img src="metrics/rss.svg" alt="Blog" width="400" align="top">
+  </a>  
+  <a href="https://stackoverflow.com/users/5092005/austen-stone">
+    <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="400" align="top">
   </a>
   <a href="https://rubberduckdebugging.com/">
     <img align="right" height="150" width="auto" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
-  </a>
-</p>
-
-<p>
-  <a href="https://leetcode.com/u/miltonlaxer">
-    <img src="metrics/leetcode.svg" alt="LeetCode" width="400" align="top">
-  </a>
-  <a href="https://stackoverflow.com/users/5092005/austen-stone">
-    <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="400" align="top">
   </a>
 </p>
 
@@ -22,6 +16,16 @@
 <a href="https://steamcommunity.com/id/bottlez">
   <img src="metrics/steam.svg" alt="Steam" width="400" align="top">
 </a>
+
+<!-- <p>
+  <a href="https://leetcode.com/u/miltonlaxer">
+    <img src="metrics/leetcode.svg" alt="LeetCode" width="400" align="top">
+  </a>
+  <a href="https://stackoverflow.com/users/5092005/austen-stone">
+    <img src="metrics/stackoverflow.svg" alt="Stack Overflow" width="400" align="top">
+  </a>
+</p> -->
+
 <picture>
   <img src="metrics/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
