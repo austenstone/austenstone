@@ -10,9 +10,11 @@
 <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
   <img src="metrics/music.svg" alt="Spotify" width="400" align="top">
 </a>
-<a href="https://steamcommunity.com/id/bottlez">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&redirect=true)
+
+<!-- <a href="https://steamcommunity.com/id/bottlez">
   <img src="metrics/steam.svg" alt="Steam" width="400" align="top">
-</a>
+</a> -->
 
 <!-- <p>
   <a href="https://leetcode.com/u/miltonlaxer">
@@ -51,8 +53,6 @@
 <!-- <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
   <img align="right" width="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a> -->
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&redirect=true)
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1224818142&redirect=true) -->
 
