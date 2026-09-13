@@ -7,10 +7,14 @@
   </a>
 </p>
 
-<a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
-  <img src="metrics/music.svg" alt="Spotify" width="400" align="top">
-</a>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&redirect=true)
+<p>
+  <a href="https://open.spotify.com/user/1224818142?si=47ea2387152f491e">
+    <img src="metrics/music.svg" alt="Spotify" width="400">
+  </a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&amp;redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1224818142&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color_cover=true" alt="Spotify GitHub profile" height="400">
+  </a>
+</p>
 
 <!-- <a href="https://steamcommunity.com/id/bottlez">
   <img src="metrics/steam.svg" alt="Steam" width="400" align="top">
