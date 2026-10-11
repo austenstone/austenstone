@@ -29,9 +29,9 @@
   </a>
 </p> -->
 
-<picture>
+<!-- <picture>
   <img src="metrics/github-metrics.svg" alt="Metrics" width="100%">
-</picture>
+</picture> -->
 
 <!-- <a href="https://stackoverflow.com/users/5092005/austen-stone">
   <picture>
